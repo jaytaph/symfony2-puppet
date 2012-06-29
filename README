@@ -1,3 +1,10 @@
 A simple layout of your symfony2 vagrant/puppet modules.
 
+Since we are using external modules, make sure you create them as well:
+
+$ git submodule init
+$ git submodule update
+
+Or, if you prefer not to use those: copy them over from https://github.com/example42/
+
 See: http://www.adayinthelifeof.nl/2012/06/29/using-vagrant-and-puppet-to-setup-your-symfony2-environment/ for more information.
