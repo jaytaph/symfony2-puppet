@@ -7,3 +7,6 @@
 [submodule "support/puppet/modules/mysql"]
 	path = support/puppet/modules/mysql
 	url = https://github.com/example42/puppet-mysql
+[submodule "support/puppet/modules/php"]
+	path = support/puppet/modules/php
+	url = https://github.com/example42/puppet-php
