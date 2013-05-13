@@ -1,3 +1,10 @@
+EOL: 
+Please check out the symfony2-puppet-new repository for a more up-to-date system
+
+
+
+--- 
+
 A simple layout of your symfony2 vagrant/puppet modules.
 
 Since we are using external modules, make sure you create them as well:
